@@ -85,7 +85,7 @@ O sistema deve:
 - permitir registrar a data do aluguel do produto;
 - permitir registrar a data de devolução do produto;
 - permitir registrar mais de um produto;
--
+- Notificar o vencimento dos aluguéis;
 
 ## EM MANUTENÇÃO
 
